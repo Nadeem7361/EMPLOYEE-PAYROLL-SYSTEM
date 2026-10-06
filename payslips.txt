@@ -1,0 +1,20 @@
+====================================
+              PAYSLIP               
+====================================
+Employee ID : 101
+Name        : Nadeem Ansari
+Type        : Full-Time
+Month       : October 2026
+------------------------------------
+EARNINGS
+  Basic Salary              25000.00
+  HRA (20%)                  5000.00
+  DA (10%)                   2500.00
+  Gross Salary              32500.00
+DEDUCTIONS
+  PF (12%)                   3000.00
+  Total Deductions           3000.00
+------------------------------------
+NET SALARY                  29500.00
+====================================
+
